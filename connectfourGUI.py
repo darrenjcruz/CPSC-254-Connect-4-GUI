@@ -1,3 +1,11 @@
+# Author: Angel Armendariz, Darren Cruz, Spencer Price
+# Emails: angelarmendariz@csu.fullerton.edu, darrencruz@csu.fullerton.edu, spencerprice@csu.fullerton.edu
+
+'''
+This module contains the ConnectFourApp class which includes the gui functions
+that draws the game and its app.
+'''
+
 import connectfour
 import tkinter
 from tkinter import *  
